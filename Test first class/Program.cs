@@ -1,5 +1,5 @@
 ﻿using System;
-
+// Comment from erich
 namespace Test_first_class
 {
     class Program
